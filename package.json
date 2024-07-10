@@ -1,0 +1,11 @@
+{
+  "name": "map_reduce_filter",
+  "version": "1.0.0",
+  "main": "map.js",
+  "scripts": {
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
